@@ -1,0 +1,679 @@
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+F:\HUST-BDL-SRC-master\HUST-BDL-SRC-master\一期固定式读写器\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+D:\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+D:\作业作业作业1\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+D:\作业作业作业2\作业作业作业2\作业作业作业\作业作业作业\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\作业作业作业3\作业作业作业3\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\DAL.dll
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\Model.dll
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\DAL.pdb
+D:\PackingManagement\PackingManagement\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\lichang\Desktop\PackingManagement填写部分收费管理\PackingManagement填写部分收费管理\PackingManagement\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe.config
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\ModuleReaderManager.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\DAL.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\Model.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\DAL.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\bin\Debug\Model.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csprojResolveAssemblyReference.cache
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.AboutFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CountTagsFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.CustomCmdFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Form1.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Frm16portAnts.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskExt.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmLongTaskTagRecv.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmMsgDebug.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.FrmPsam.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.InventoryParasform.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Iso186bopForm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.logFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.longtaskfrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MulperlockFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.MultiBankWriteFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.Properties.Resources.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.readerParaform.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.gen2opForm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.regulatoryFrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.updatefrm.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.csproj.GenerateResource.Cache
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\固定式读写器Demo_src\obj\Debug\ModuleReaderManager.pdb

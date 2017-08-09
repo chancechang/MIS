@@ -1,0 +1,931 @@
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe.config
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\DAL.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\EntityFramework.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\DAL.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe.config
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\DAL.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\DAL.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement1111\PackingManagement\PackingManagement\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\PackingManagement\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe.config
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\PackingManagement.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\DAL.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\DAL.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\bin\Debug\EntityFramework.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\PackingManagement\obj\Debug\PackingManagement.AddAdimin.resources
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.AddAdimin.resources
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\PackingManagement\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\PackingManagement.exe.config
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.exe
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\PackingManagement.exe
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\PackingManagement.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\DAL.dll
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\Model.dll
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\DAL.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\bin\Debug\Model.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.AddAdimin.resources
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+F:\大三\蔡妈\毕设\PackingManagement6.24\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\lichang\Desktop\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\lichang\Desktop\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\lichang\Desktop\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+D:\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddSecretUser.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddSecretUser.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddSecretUser.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddSecretUser.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.租用信息.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.PackingPlace.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe.config
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.dll
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.dll
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleAPI.dll
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\DAL.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\Model.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PositionManage.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.9 901\停车管理信息系统-7.5am\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.exe.config
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.exe
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.exe
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\DAL.dll
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\Model.dll
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleReaderManager.exe
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PositionManage.exe
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleAPI.dll
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\DAL.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\Model.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PositionManage.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+H:\南京大学\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+I:\停车管理信息系统-7.6pmmmm\PackingManagement\bin\Debug\PackingManagement.exe.config
+I:\停车管理信息系统-7.6pmmmm\PackingManagement\obj\Debug\PackingManagement.exe
+I:\停车管理信息系统-7.6pmmmm\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统-最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+D:\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+D:\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleAPI.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统7.13\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+J:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+J:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+J:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe.config
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PackingManagement.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleAPI.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\DAL.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\Model.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\PositionManage.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\PackingManagement.exe.config
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.exe
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.pdb
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\PackingManagement.exe
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\PackingManagement.pdb
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\DAL.dll
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\Model.dll
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\ModuleReaderManager.exe
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\PositionManage.exe
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\ModuleAPI.dll
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\DAL.pdb
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\Model.pdb
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\PositionManage.pdb
+D:\Zigbee停车场7.20\PackingManagement\bin\Debug\ModuleReaderManager.pdb
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.csprojResolveAssemblyReference.cache
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.AddAdmin.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.AddRentingTime.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.AddSU.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.Administrator.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.CasualUserPacking.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.Charges.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.ComCommonFreePark.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.ComCommonPark.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.CommonCharge.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.Form1.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.getCardID.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.Properties.Resources.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.SecretUser.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.SecretUserPacking.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.UserLogin.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.可租用时间.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PositionManage.租用信息1.resources
+D:\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.csproj.GenerateResource.Cache
+D:\Zigbee停车场7.20\Zigbee停车场7.20\PackingManagement\bin\Debug\PackingManagement.exe.config
+D:\Zigbee停车场7.20\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.exe
+D:\Zigbee停车场7.20\Zigbee停车场7.20\PackingManagement\obj\Debug\PackingManagement.pdb

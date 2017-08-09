@@ -1,0 +1,148 @@
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\bin\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\bin\Debug\EntityFramework.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\obj\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\obj\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\大三下\蔡妈\停车场管理信息系统\PackingManagement\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\作业作业作业\PackingManagement\Model\obj\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\bin\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\bin\Debug\Model.pdb
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\obj\Debug\Model.dll
+E:\大三下\蔡妈\停车场管理信息系统\Packing\作业作业作业\PackingManagement\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PackingManagement\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\PackingManagement\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PackingManagement\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PackingManagement\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\PackingManagement\Model\obj\Debug\Model.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\Model\bin\Debug\Model.dll
+F:\大三\蔡妈\毕设\PackingManagement6.24\Model\bin\Debug\Model.pdb
+F:\大三\蔡妈\毕设\PackingManagement6.24\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\大三\蔡妈\毕设\PackingManagement6.24\Model\obj\Debug\Model.dll
+F:\大三\蔡妈\毕设\PackingManagement6.24\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+H:\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\lichang\Desktop\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\Model\obj\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\bin\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\bin\Debug\Model.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\obj\Debug\Model.dll
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\Model\obj\Debug\Model.pdb
+H:\南京大学\停车管理信息系统-7.5am2\Model\bin\Debug\Model.dll
+H:\南京大学\停车管理信息系统-7.5am2\Model\bin\Debug\Model.pdb
+H:\南京大学\停车管理信息系统-7.5am2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+H:\南京大学\停车管理信息系统-7.5am2\Model\obj\Debug\Model.dll
+H:\南京大学\停车管理信息系统-7.5am2\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\停车管理信息系统-7.6am\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\obj\Debug\Model.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\bin\Debug\Model.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\bin\Debug\Model.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\obj\Debug\Model.dll
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\Model\obj\Debug\Model.pdb
+D:\Zigbee停车场7.20\Model\bin\Debug\Model.dll
+D:\Zigbee停车场7.20\Model\bin\Debug\Model.pdb
+D:\Zigbee停车场7.20\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Zigbee停车场7.20\Model\obj\Debug\Model.dll
+D:\Zigbee停车场7.20\Model\obj\Debug\Model.pdb

@@ -1,0 +1,183 @@
+E:\大三下\蔡妈\HUST-BDL-SRC-master\一期ZigBee定位系统\ZigBee-PositionManage_src\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\PackingManagement6.25\ZigBee-PositionManage_src\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车场管理系统6.26\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.28\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\6.29 650\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\6.30 80000\6.2721.12\6.2721.12\停车场管理系统6.27\停车场管理系统6.27\PackingManagement6.25+邵蓉波\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\pxyxi\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe.config
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\bin\Debug\PositionManage.pdb
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Form1.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.exe
+H:\停车管理信息系统-7.3 17.28\停车管理信息系统-7.3\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.3 17.28\停车管理信息系统-7.5am\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\停车管理信息系统-7.5am2\PositionManage\obj\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.exe.config
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.pdb
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.Form1.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.exe
+C:\Users\Administrator\Desktop\第1组课程设计之ZigBee停车场管理系统最终版\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.exe.config
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\bin\Debug\PositionManage.pdb
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.Form1.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.FormDefinePoint.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.Properties.Resources.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.UC.UCRefPoint.resources
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.csproj.GenerateResource.Cache
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.exe
+D:\第1组课程设计之ZigBee停车场管理系统7.17\第1组课程设计之ZigBee停车场管理系统\ZigBee停车场\PositionManage\obj\Debug\PositionManage.pdb
